@@ -93,7 +93,7 @@ analytics:
 # Site Author
 author:
   name: "Junior Back-end Developer"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/desktop/sss.png"
   bio: "JUST DO IT"
   location: "Seoul, Republic of Korea"
   email:
