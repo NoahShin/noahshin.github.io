@@ -93,15 +93,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Jae Hoon Shin **Noah**"
+  avatar           : "/users/noahshin/desktop/pictures/my_face.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg" 
+  bio              : "**JUST DO IT**"
+  location         : "Seoul, Republic of Korea"
+  email            : "noahshin11@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "noahshin11@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -113,10 +113,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+       Github id: "noahshin"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+       id: "noahshin__11"
 
 # Site Footer
 footer:
