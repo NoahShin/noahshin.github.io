@@ -21,9 +21,9 @@ title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Noah Shin github blog"
 description: "An amazing website."
-url: "https://noahshin.github.io/" # the base hostname & protocol for your site e.g. 
+url: "https://noahshin.github.io/" # the base hostname & protocol for your site e.g.
 baseurl: # the subpath of your site, e.g. "/blog"
-repository:  "NoahShin/noahshin.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository: "NoahShin/noahshin.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
@@ -98,16 +98,15 @@ author:
   location: "Seoul, Republic of Korea"
   email:
   links:
-  
-  #  - label: "Website"
-  #    icon: "fas fa-fw fa-link"
-  #     url: "https://velog.io/@noahshin__11"
-  #  - label: "Twitter"
-  #    icon: "fab fa-fw fa-twitter-square"
-  #    # url: "https://twitter.com/"
-  #  - label: "Facebook"
-  #    icon: "fab fa-fw fa-facebook-square"
-  #    # url: "https://facebook.com/"
+    #  - label: "Website"
+    #    icon: "fas fa-fw fa-link"
+    #     url: "https://velog.io/@noahshin__11"
+    #  - label: "Twitter"
+    #    icon: "fab fa-fw fa-twitter-square"
+    #    # url: "https://twitter.com/"
+    #  - label: "Facebook"
+    #    icon: "fab fa-fw fa-facebook-square"
+    #    # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/NoahShin"
@@ -121,12 +120,12 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-       url: "https://www.facebook.com/profile.php?id=100006595278589"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-       url: "https://github.com/NoahShin"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #    url: "https://www.facebook.com/profile.php?id=100006595278589"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #    url: "https://github.com/NoahShin"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -135,8 +134,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://www.instagram.com/noahshin__11/"
-
+      #  url: "https://www.instagram.com/noahshin__11/"
 
 # Reading Files
 include:
