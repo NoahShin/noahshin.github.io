@@ -16,7 +16,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "Site Title"
+title: "Jae Hoon Shin (Noah)"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
 name: "Your Name"
@@ -92,18 +92,18 @@ analytics:
 
 # Site Author
 author:
-  name: "heeeeeey"
+  name: "Junior Back-end Developer"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I am an **sexy!** person."
-  location: "Somewhere"
+  bio: "JUST DO IT"
+  location: "Seoul, Republic of Korea"
   email:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+       url: "mailto:noahshin11@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+       url: "https://velog.io/@noahshin__11"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -125,10 +125,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+       url: "https://www.facebook.com/profile.php?id=100006595278589"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+       url: "https://github.com/NoahShin"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -137,7 +137,8 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+       url: "https://www.instagram.com/noahshin__11/"
+
 
 # Reading Files
 include:
