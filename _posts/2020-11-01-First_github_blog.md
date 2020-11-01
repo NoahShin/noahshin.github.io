@@ -2,6 +2,8 @@
 title: "wecode TIL day 1 (Oct 19) ~ TIL day 14 (Nov 1)"
 date: 2020-11-01
 categories: wecode TIL HTML CSS python django git github mysql HTTP database
+toc : true
+toc_sticky: true
 ---
 
 ## wecode 첫날 ~ 2주 마지막 날 일요일 velog로 개발 블로그를 사용하다가 Github blog를 쓰기로 결정했다.
