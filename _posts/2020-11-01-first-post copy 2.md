@@ -14,4 +14,7 @@ categories: wecode TIL HTML CSS python django git github mysql HTTP database
  HTML CSS python django git github mysql HTTP database <br>
 들을 주로 다루고 있다. 앞으로는 여기  github blog로 작성할 생각이다.
 
+![](https://images.velog.io/images/noahshin__11/post/cae6433d-cd66-450b-ab80-002eb9794f1e/image.png)
+
+
 [신재훈, Noah Jae Hoon Shin's velog](https://velog.io/@noahshin__11)
